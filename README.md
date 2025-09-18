@@ -66,5 +66,3 @@ Se probaron dos enfoques:
 - Se confirma la regla histórica: “Mujeres y niños primero, especialmente de clases altas”
 
 ---
-
-📌 *Este proyecto es una demostración práctica de cómo combinar análisis exploratorio, modelado predictivo y segmentación para entender fenómenos históricos desde una perspectiva de ciencia de datos.*
